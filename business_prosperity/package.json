@@ -1,0 +1,14 @@
+{
+  "name": "eb5c23c0de2a09f9",
+  "main": "eb5c23c0de2a09f9@250.js",
+  "version": "250.0.0",
+  "homepage": "https://observablehq.com/d/eb5c23c0de2a09f9",
+  "author": {
+    "name": "crystalchen",
+    "url": "https://observablehq.com/@crystalc"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
